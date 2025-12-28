@@ -2,7 +2,7 @@
 id: 0001
 title: Book Master Plan Specification
 stage: spec
-date: 2025-11-29
+date: 2025-12-07
 surface: agent
 model: claude-sonnet-4-5
 feature: 001-book-master-plan
@@ -76,3 +76,4 @@ Created comprehensive book master plan specification with:
 - Graders run and results (PASS/FAIL): Specification Quality Checklist - PASS (all 12 criteria met)
 - Prompt variant (if applicable): Standard spec workflow with course syllabus context
 - Next experiment (smallest change to try): Test if Docusaurus setup spec can reference this book structure spec for navigation requirements
+
