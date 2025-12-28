@@ -2,12 +2,12 @@
 id: 0001
 title: Ratify Project Constitution v1.0.0
 stage: constitution
-date: 2025-11-29
+date: 2025-12-07
 surface: agent
 model: claude-sonnet-4-5
 feature: none
-branch: master
-user: Ameen Alam
+branch: main
+user: Sadia Naqvi
 command: /sp.constitution
 labels: ["constitution", "governance", "standards", "book-writing", "docusaurus"]
 links:
@@ -61,3 +61,4 @@ Included sync impact report documenting this as an initial ratification with all
 - Graders run and results (PASS/FAIL): N/A (constitution ratification)
 - Prompt variant (if applicable): Standard constitution creation workflow
 - Next experiment (smallest change to try): Test constitution by creating a sample chapter spec to validate principles are actionable
+
