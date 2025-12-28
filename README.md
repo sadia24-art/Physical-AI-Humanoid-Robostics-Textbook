@@ -83,8 +83,7 @@ All PRs must pass:
 
 ## Specification-Driven Development
 
-This project follows **Spec-Driven Development (SDD)** using [Spec-Kit Plus](https://github.com/Ameen-Alam/spec-kit-plus):
-
+This project follows **Spec-Driven Development (SDD)**
 1. **Constitution**: Core principles in [`.specify/memory/constitution.md`](.specify/memory/constitution.md)
 2. **Specifications**: Feature specs in [`specs/001-book-master-plan/spec.md`](specs/001-book-master-plan/spec.md)
 3. **Planning**: Implementation plan in [`specs/001-book-master-plan/plan.md`](specs/001-book-master-plan/plan.md)
@@ -102,20 +101,8 @@ This project follows **Spec-Driven Development (SDD)** using [Spec-Kit Plus](htt
 - **Deployment**: GitHub Pages
 - **AI Assistant**: Claude Code
 
-## Roadmap
-
-- [ ] Week 1-2: Introduction chapters
-- [ ] Week 3-5: ROS 2 module chapters
-- [ ] Week 6-7: Digital Twin module chapters
-- [ ] Week 8-10: NVIDIA Isaac module chapters
-- [ ] Week 11-13: VLA & Humanoids module chapters
-- [ ] Capstone project guide
-- [ ] Assessment rubrics
-- [ ] Instructor materials
-- [ ] Video tutorials
-- [ ] Interactive code examples
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
