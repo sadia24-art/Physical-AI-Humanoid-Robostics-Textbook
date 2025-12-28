@@ -2,12 +2,12 @@
 id: 0009
 title: implement chapter 3 services actions parameters
 stage: green
-date: 2025-12-02
+date: 2025-12-07
 surface: agent
 model: claude-sonnet-4-5-20250929
 feature: 005-module-1-ros2-chapters
 branch: 005-module-1-ros2-chapters
-user: ameenalam
+user: sadia naqvi
 command: proceed
 labels: ["implementation", "chapter-3", "services", "actions", "parameters", "ai-integration"]
 links:
@@ -100,3 +100,4 @@ Created comprehensive Chapter 3 covering advanced rclpy communication patterns a
 - Graders run and results (PASS/FAIL): validate-metadata PASS (✓ module-1-ros2/chapter-3-services-actions-parameters.mdx)
 - Prompt variant (if applicable): User said "proceed" - continued momentum from Chapter 2
 - Next experiment (smallest change to try): Add downloadable code examples to static/code-examples/module-1/ for hands-on practice
+
