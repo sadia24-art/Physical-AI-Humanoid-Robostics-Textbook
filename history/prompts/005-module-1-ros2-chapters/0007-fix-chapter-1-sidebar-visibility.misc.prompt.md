@@ -2,12 +2,12 @@
 id: 0007
 title: fix chapter 1 sidebar visibility
 stage: misc
-date: 2025-12-02
+date: 2025-12-08
 surface: agent
 model: claude-sonnet-4-5-20250929
 feature: 005-module-1-ros2-chapters
 branch: 005-module-1-ros2-chapters
-user: ameenalam
+user: sadia naqvi
 command: /sp.analyze
 labels: ["sidebar", "configuration", "docusaurus", "navigation"]
 links:
@@ -63,3 +63,4 @@ Server running at http://localhost:3000/Physical-AI-Humanoid-Robotics-Textbook/ 
 - Graders run and results (PASS/FAIL): N/A (configuration fix)
 - Prompt variant (if applicable): Standard /sp.analyze with user-reported issue
 - Next experiment (smallest change to try): Add "Update sidebars.js" as explicit task in chapter creation workflow
+
