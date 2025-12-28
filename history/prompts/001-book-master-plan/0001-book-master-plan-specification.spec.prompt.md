@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-5
 feature: 001-book-master-plan
 branch: 001-book-master-plan
-user: Ameen Alam
+user: Sadia Naqvi
 command: /sp.specify book-master-plan
 labels: ["textbook-structure", "course-design", "13-week-curriculum", "physical-ai", "humanoid-robotics"]
 links:
@@ -76,4 +76,5 @@ Created comprehensive book master plan specification with:
 - Graders run and results (PASS/FAIL): Specification Quality Checklist - PASS (all 12 criteria met)
 - Prompt variant (if applicable): Standard spec workflow with course syllabus context
 - Next experiment (smallest change to try): Test if Docusaurus setup spec can reference this book structure spec for navigation requirements
+
 
