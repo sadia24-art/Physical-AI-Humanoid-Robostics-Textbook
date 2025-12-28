@@ -2,9 +2,6 @@
 
 > Comprehensive 13-week textbook for industry practitioners: ROS 2, Digital Twin (Gazebo/Unity), NVIDIA Isaac Sim, and Vision-Language-Action models.
 
-[![Deploy to GitHub Pages](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/actions/workflows/deploy.yml)
-[![Build Validation](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/actions/workflows/build-validation.yml/badge.svg)](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/actions/workflows/build-validation.yml)
-
 ## Overview
 
 This textbook provides hands-on training for building autonomous humanoid robots using:
@@ -33,24 +30,6 @@ Choose one of three hardware configurations:
 1. **Digital Twin Workstation**: RTX 3060+ GPU, Ubuntu 22.04
 2. **Physical AI Edge Kit**: NVIDIA Jetson Orin Nano
 3. **Cloud-Native**: AWS/Azure with GPU instances
-
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook.git
-cd Physical-AI-Humanoid-Robotics-Textbook
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Open http://localhost:3000
-```
-
-For detailed setup instructions, see [`specs/001-book-master-plan/quickstart.md`](specs/001-book-master-plan/quickstart.md).
 
 ## Documentation Site
 
@@ -140,19 +119,3 @@ This project follows **Spec-Driven Development (SDD)** using [Spec-Kit Plus](htt
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Built with [Docusaurus](https://docusaurus.io/) by Meta
-- Developed using [Claude Code](https://claude.ai/code) AI Assistant
-- Following [Spec-Kit Plus](https://github.com/Ameen-Alam/spec-kit-plus) methodology
-- Inspired by industry best practices in robotics education
-
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Ameen-Alam/Physical-AI-Humanoid-Robotics-Textbook/discussions)
-- **Documentation**: [Quickstart Guide](specs/001-book-master-plan/quickstart.md)
-
----
-
-**Built with Claude Code • Powered by Spec-Driven Development**
